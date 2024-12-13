@@ -1,0 +1,16 @@
+<div class="login-card">
+
+  <div class="card-title">
+      <h1>Login</h1>
+      <span>Keinen Account? <a routerLink="/register">Registieren</a></span>
+  </div>
+  @if (error) {
+    <div class="error-message">{{ error }}</div>
+  }
+  <form class="form-group" [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+      <input name="username" type="string" formControlName="username" placeholder="Benutzername">
+      <input type="password" formControlName="password" placeholder="Passwort">
+      <button>Einloggen</button>
+  </form>
+
+</div>

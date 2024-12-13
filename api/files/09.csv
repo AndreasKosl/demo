@@ -1,0 +1,22 @@
+Datum,Anruf-ID,Anrufername,Anliegen,Anrufdauer (Min),Dienstgebühr (€),Gesamtkosten (€),Zeitstempel
+2024-12-06,642629,Anna Schmidt,Terminänderung,6,2.50,15.00,12:30
+2024-12-11,642630,Karl Schmidt,Allgemeine Anfrage,14,2.50,35.00,14:45
+2024-12-09,642631,Anna Müller,Dringender Anruf,20,3.00,60.00,08:45
+2024-12-08,642632,Sarah Schäfer,Rechnungsanfrage,5,3.00,15.00,11:15
+2024-12-02,642633,Hans Schäfer,Rechnungsanfrage,9,2.50,22.50,11:15
+2024-12-08,642634,Hans Meier,Dringender Anruf,15,3.00,45.00,10:15
+2024-12-03,642635,Erika Schmidt,Dringender Anruf,15,2.50,37.50,13:15
+2024-12-04,642636,Hans Wagner,Allgemeine Anfrage,24,3.00,72.00,11:00
+2024-12-11,642637,Karl Fischer,Terminbuchung,25,3.00,75.00,15:30
+2024-12-12,642638,Hans Schmidt,Terminbuchung,17,2.50,42.50,15:30
+2024-12-12,642639,Julia Fischer,Terminbuchung,6,2.50,15.00,11:15
+2024-12-12,642640,Michael Müller,Dringender Anruf,15,3.00,45.00,12:00
+2024-12-09,642641,Karl Meier,Allgemeine Anfrage,9,2.50,22.50,16:45
+2024-12-03,642642,Erika Braun,Allgemeine Anfrage,15,3.00,45.00,08:45
+2024-12-11,642643,Anna Schmidt,Dringender Anruf,9,2.50,22.50,10:15
+2024-12-02,642644,Lisa Huber,Terminbuchung,17,2.50,42.50,13:45
+2024-12-09,642645,Lisa Wagner,Allgemeine Anfrage,6,2.50,15.00,14:30
+2024-12-08,642646,Erika Müller,Dringender Anruf,7,3.00,21.00,14:15
+2024-12-12,642647,Sarah Wagner,Terminbuchung,11,3.00,33.00,16:00
+2024-12-02,642648,Peter Kühn,Terminbuchung,21,3.00,63.00,12:30
+2024-12-01,642649,Michael Schäfer,Dringender Anruf,14,3.00,42.00,17:30

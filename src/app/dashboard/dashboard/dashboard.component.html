@@ -1,0 +1,13 @@
+@if (!data.length && !error) {
+  <p>Laden...</p>
+}
+@if (error) {
+  <p>Keine Daten für diesen Benutzer gefunden</p>
+  <button (click)="loadData()">Erneut versuchen</button>
+}
+
+@if (data.length) {
+  <h2>Telefondaten-Übersicht für Benutzer: {{ user }}</h2>
+  <app-table [data]="data"></app-table>
+  <app-statistics [data]="data"></app-statistics>
+}

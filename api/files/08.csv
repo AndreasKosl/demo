@@ -1,0 +1,41 @@
+Datum,Anruf-ID,Anrufername,Anliegen,Anrufdauer (Min),Dienstgebühr (€),Gesamtkosten (€),Zeitstempel
+2024-12-04,982957,Erika Wagner,Dringender Anruf,14,3.00,42.00,16:30
+2024-12-11,982958,Karl Braun,Allgemeine Anfrage,17,2.50,42.50,11:45
+2024-12-09,982959,Hans Schäfer,Rechnungsanfrage,9,3.00,27.00,16:45
+2024-12-08,982960,Julia Wagner,Rechnungsanfrage,23,2.50,57.50,10:00
+2024-12-02,982961,Hans Meier,Rechnungsanfrage,5,3.00,15.00,17:45
+2024-12-06,982962,Thomas Fischer,Terminänderung,8,3.00,24.00,17:15
+2024-12-06,982963,Lisa Müller,Rechnungsanfrage,9,2.50,22.50,11:00
+2024-12-10,982964,Michael Braun,Allgemeine Anfrage,13,3.00,39.00,14:15
+2024-12-03,982965,Michael Wagner,Dringender Anruf,14,2.50,35.00,10:45
+2024-12-05,982966,Erika Wagner,Allgemeine Anfrage,21,3.00,63.00,17:00
+2024-12-04,982967,Erika Meier,Rechnungsanfrage,18,2.50,45.00,11:30
+2024-12-01,982968,Erika Meier,Rechnungsanfrage,21,2.50,52.50,15:45
+2024-12-12,982969,Thomas Weber,Terminänderung,14,2.50,35.00,11:00
+2024-12-07,982970,Thomas Kühn,Terminbuchung,14,3.00,42.00,13:30
+2024-12-09,982971,Julia Wagner,Dringender Anruf,24,3.00,72.00,08:30
+2024-12-07,982972,Lisa Schäfer,Allgemeine Anfrage,14,3.00,42.00,10:15
+2024-12-10,982973,Anna Fischer,Dringender Anruf,5,2.50,12.50,16:30
+2024-12-09,982974,Anna Müller,Dringender Anruf,14,3.00,42.00,15:45
+2024-12-11,982975,Sarah Fischer,Dringender Anruf,22,2.50,55.00,11:00
+2024-12-09,982976,Hans Schmidt,Allgemeine Anfrage,10,2.50,25.00,13:30
+2024-12-02,982977,Erika Fischer,Terminänderung,12,2.50,30.00,09:15
+2024-12-05,982978,Michael Weber,Rechnungsanfrage,20,3.00,60.00,10:45
+2024-12-06,982979,Peter Wagner,Terminbuchung,24,3.00,72.00,10:15
+2024-12-07,982980,Julia Kühn,Terminänderung,15,2.50,37.50,17:15
+2024-12-09,982981,Anna Huber,Dringender Anruf,18,2.50,45.00,15:45
+2024-12-03,982982,Erika Schäfer,Allgemeine Anfrage,24,3.00,72.00,12:30
+2024-12-08,982983,Karl Schmidt,Allgemeine Anfrage,16,3.00,48.00,17:15
+2024-12-04,982984,Karl Huber,Terminbuchung,8,2.50,20.00,17:30
+2024-12-07,982985,Peter Fischer,Allgemeine Anfrage,8,2.50,20.00,15:45
+2024-12-12,982986,Karl Schmidt,Allgemeine Anfrage,11,3.00,33.00,11:00
+2024-12-09,982987,Sarah Huber,Rechnungsanfrage,22,3.00,66.00,16:15
+2024-12-11,982988,Michael Schäfer,Dringender Anruf,14,3.00,42.00,08:15
+2024-12-06,982989,Karl Wagner,Terminänderung,7,2.50,17.50,11:15
+2024-12-06,982990,Thomas Braun,Rechnungsanfrage,24,2.50,60.00,15:30
+2024-12-05,982991,Karl Wagner,Dringender Anruf,14,2.50,35.00,12:30
+2024-12-07,982992,Lisa Wagner,Terminänderung,22,2.50,55.00,11:00
+2024-12-10,982993,Anna Wagner,Dringender Anruf,11,2.50,27.50,11:45
+2024-12-04,982994,Thomas Müller,Rechnungsanfrage,24,3.00,72.00,08:30
+2024-12-11,982995,Peter Weber,Terminänderung,12,2.50,30.00,13:00
+2024-12-10,982996,Hans Weber,Allgemeine Anfrage,23,2.50,57.50,13:30

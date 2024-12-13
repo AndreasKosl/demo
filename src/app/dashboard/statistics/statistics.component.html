@@ -1,0 +1,25 @@
+<div class="statistics">
+  <h3>Gesamtkosten nach Anliegen</h3>
+  <div class="table-container">
+    <table>
+      <thead>
+        <tr>
+          <th>Anliegen</th>
+          <th>Summe der Anrufdauer</th>
+          <th>Summe der Gesamtkosten (€)</th>
+          <th>Durchschnittliche Kosten pro Anruf (€)</th>
+        </tr>
+      </thead>
+      <tbody>
+        @for (dienst of dienstTypen; track $index) {
+          <tr>
+            <td>{{ dienst }}</td>
+            <td>{{ dienstDaten[dienst].sumDauer}}</td>
+            <td>{{ dienstDaten[dienst].sumKosten | currency:'EUR' }}</td>
+            <td>{{ dienstDaten[dienst].avgKosten | currency:'EUR' }}</td>
+          </tr>
+        }
+      </tbody>
+    </table>
+  </div>
+</div>

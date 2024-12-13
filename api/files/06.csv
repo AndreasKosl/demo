@@ -1,0 +1,28 @@
+Datum,Anruf-ID,Anrufername,Anliegen,Anrufdauer (Min),Dienstgebühr (€),Gesamtkosten (€),Zeitstempel
+2024-12-11,631992,Hans Meier,Terminbuchung,23,3.00,69.00,08:30
+2024-12-02,631993,Michael Weber,Rechnungsanfrage,11,2.50,27.50,12:45
+2024-12-09,631994,Hans Kühn,Rechnungsanfrage,9,3.00,27.00,14:30
+2024-12-11,631995,Julia Fischer,Terminbuchung,25,2.50,62.50,14:15
+2024-12-10,631996,Michael Fischer,Terminbuchung,16,2.50,40.00,13:30
+2024-12-02,631997,Michael Müller,Allgemeine Anfrage,13,3.00,39.00,08:15
+2024-12-08,631998,Anna Wagner,Rechnungsanfrage,13,3.00,39.00,08:45
+2024-12-08,631999,Lisa Meier,Rechnungsanfrage,13,2.50,32.50,15:15
+2024-12-06,632000,Thomas Huber,Terminbuchung,8,3.00,24.00,10:00
+2024-12-01,632001,Michael Schäfer,Allgemeine Anfrage,9,2.50,22.50,08:30
+2024-12-06,632002,Hans Fischer,Rechnungsanfrage,23,3.00,69.00,13:00
+2024-12-01,632003,Erika Wagner,Dringender Anruf,17,2.50,42.50,17:30
+2024-12-03,632004,Lisa Schäfer,Terminänderung,12,2.50,30.00,16:45
+2024-12-05,632005,Peter Meier,Allgemeine Anfrage,13,3.00,39.00,12:15
+2024-12-04,632006,Karl Wagner,Allgemeine Anfrage,20,3.00,60.00,08:45
+2024-12-11,632007,Karl Huber,Allgemeine Anfrage,18,3.00,54.00,15:45
+2024-12-08,632008,Michael Meier,Dringender Anruf,14,3.00,42.00,13:15
+2024-12-09,632009,Julia Kühn,Dringender Anruf,14,3.00,42.00,09:30
+2024-12-02,632010,Karl Schmidt,Terminbuchung,9,3.00,27.00,13:30
+2024-12-10,632011,Anna Meier,Terminbuchung,16,2.50,40.00,14:30
+2024-12-04,632012,Julia Fischer,Terminänderung,16,3.00,48.00,13:30
+2024-12-03,632013,Hans Wagner,Allgemeine Anfrage,20,3.00,60.00,16:30
+2024-12-11,632014,Hans Fischer,Dringender Anruf,5,2.50,12.50,17:45
+2024-12-03,632015,Julia Meier,Rechnungsanfrage,13,2.50,32.50,17:45
+2024-12-01,632016,Julia Kühn,Terminänderung,23,3.00,69.00,12:00
+2024-12-11,632017,Anna Schmidt,Rechnungsanfrage,15,2.50,37.50,17:00
+2024-12-05,632018,Erika Braun,Allgemeine Anfrage,12,2.50,30.00,14:15

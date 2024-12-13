@@ -1,0 +1,28 @@
+Datum,Anruf-ID,Anrufername,Anliegen,Anrufdauer (Min),Dienstgebühr (€),Gesamtkosten (€),Zeitstempel
+2024-12-04,621828,Anna Wagner,Dringender Anruf,23,2.50,57.50,12:15
+2024-12-06,621829,Sarah Schäfer,Terminänderung,11,3.00,33.00,12:30
+2024-12-03,621830,Thomas Huber,Allgemeine Anfrage,8,3.00,24.00,11:15
+2024-12-11,621831,Lisa Kühn,Rechnungsanfrage,15,3.00,45.00,11:15
+2024-12-07,621832,Lisa Schmidt,Rechnungsanfrage,13,2.50,32.50,08:30
+2024-12-12,621833,Sarah Meier,Terminbuchung,17,3.00,51.00,16:15
+2024-12-08,621834,Hans Weber,Terminänderung,17,2.50,42.50,08:30
+2024-12-08,621835,Karl Fischer,Rechnungsanfrage,11,2.50,27.50,17:00
+2024-12-01,621836,Sarah Kühn,Terminänderung,22,2.50,55.00,11:30
+2024-12-05,621837,Sarah Kühn,Terminänderung,20,3.00,60.00,08:45
+2024-12-12,621838,Sarah Braun,Terminbuchung,21,3.00,63.00,12:45
+2024-12-07,621839,Anna Braun,Dringender Anruf,12,3.00,36.00,11:45
+2024-12-03,621840,Erika Kühn,Terminänderung,13,3.00,39.00,09:00
+2024-12-01,621841,Thomas Wagner,Allgemeine Anfrage,9,3.00,27.00,09:45
+2024-12-02,621842,Erika Wagner,Rechnungsanfrage,18,2.50,45.00,12:00
+2024-12-02,621843,Lisa Kühn,Terminänderung,6,2.50,15.00,10:45
+2024-12-07,621844,Erika Braun,Terminänderung,22,2.50,55.00,11:30
+2024-12-02,621845,Julia Fischer,Terminbuchung,5,2.50,12.50,10:15
+2024-12-01,621846,Hans Kühn,Terminänderung,16,3.00,48.00,13:00
+2024-12-05,621847,Lisa Fischer,Terminbuchung,16,2.50,40.00,10:15
+2024-12-11,621848,Anna Wagner,Terminänderung,8,2.50,20.00,17:15
+2024-12-05,621849,Michael Schmidt,Dringender Anruf,13,2.50,32.50,11:30
+2024-12-05,621850,Hans Müller,Dringender Anruf,12,2.50,30.00,12:00
+2024-12-02,621851,Karl Weber,Rechnungsanfrage,10,3.00,30.00,12:30
+2024-12-05,621852,Lisa Wagner,Allgemeine Anfrage,23,3.00,69.00,15:15
+2024-12-01,621853,Lisa Braun,Rechnungsanfrage,20,2.50,50.00,11:30
+2024-12-10,621854,Erika Schmidt,Terminbuchung,7,2.50,17.50,17:00

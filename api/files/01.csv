@@ -1,0 +1,11 @@
+Datum,Anruf-ID,Anrufername,Anliegen,Anrufdauer (Min),Dienstgebühr (€),Gesamtkosten (€),Zeitstempel
+2024-12-01,001234,Hans Müller,Terminbuchung,15,2.50,37.50,10:15
+2024-12-01,001235,Anna Schmidt,Allgemeine Anfrage,10,2.50,25.00,10:30
+2024-12-02,001236,Michael Fischer,Dringender Anruf,20,3.00,60.00,14:45
+2024-12-02,001237,Sarah Meier,Terminänderung,8,2.50,20.00,15:00
+2024-12-03,001238,Thomas Braun,Rechnungsanfrage,12,2.50,30.00,09:00
+2024-12-03,001239,Julia Weber,Terminbuchung,18,2.50,45.00,09:30
+2024-12-03,001240,Peter Kühn,Allgemeine Anfrage,7,2.50,17.50,10:00
+2024-12-04,001241,Lisa Huber,Dringender Anruf,25,3.00,75.00,11:15
+2024-12-04,001242,Karl Schäfer,Terminänderung,10,2.50,25.00,11:45
+2024-12-04,001243,Erika Wagner,Rechnungsanfrage,15,2.50,37.50,12:00

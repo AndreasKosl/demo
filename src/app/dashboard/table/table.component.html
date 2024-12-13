@@ -1,0 +1,30 @@
+<div class="anrufeliste-container">
+  <div class="header-row">
+    <h3>Anrufliste</h3>
+    <form class="filter-form">
+      <label for="searchTerm">Anrufe filtern</label>
+      <input id="searchTerm" name="searchTerm" placeholder="Filtern..." type="text" [(ngModel)]="searchTerm" />
+    </form>
+  </div>
+
+  <div class="table-container">
+    <table>
+      @for (row of data() | filterTable: searchTerm(); track $index) {
+        @if ($index === 0) {
+          <tr>
+            @for (cell of row; track $index) {
+              <th>{{ cell }}</th>
+            }
+          </tr>
+        }
+        @else {
+          <tr>
+            @for (cell of row; track $index) {
+              <td>{{ cell }}</td>
+            }
+          </tr>
+        }
+      }
+    </table>
+  </div>
+</div>

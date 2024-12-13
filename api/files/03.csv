@@ -1,0 +1,79 @@
+Datum,Anruf-ID,Anrufername,Anliegen,Anrufdauer (Min),Dienstgebühr (€),Gesamtkosten (€),Zeitstempel
+2024-12-06,269935,Julia Weber,Rechnungsanfrage,8,2.50,20.00,17:30
+2024-12-07,269936,Erika Wagner,Allgemeine Anfrage,7,3.00,21.00,13:45
+2024-12-11,269937,Karl Meier,Terminänderung,7,2.50,17.50,08:15
+2024-12-08,269938,Lisa Braun,Dringender Anruf,18,3.00,54.00,14:45
+2024-12-08,269939,Julia Meier,Allgemeine Anfrage,10,2.50,25.00,15:00
+2024-12-05,269940,Erika Braun,Terminänderung,24,2.50,60.00,11:30
+2024-12-02,269941,Karl Wagner,Terminänderung,6,2.50,15.00,16:00
+2024-12-10,269942,Anna Schäfer,Rechnungsanfrage,15,2.50,37.50,15:30
+2024-12-02,269943,Julia Wagner,Rechnungsanfrage,5,3.00,15.00,15:45
+2024-12-04,269944,Karl Huber,Rechnungsanfrage,14,3.00,42.00,17:00
+2024-12-10,269945,Anna Weber,Allgemeine Anfrage,17,3.00,51.00,11:30
+2024-12-03,269946,Hans Weber,Rechnungsanfrage,24,3.00,72.00,16:45
+2024-12-09,269947,Peter Meier,Terminänderung,10,3.00,30.00,08:15
+2024-12-05,269948,Erika Fischer,Dringender Anruf,20,2.50,50.00,14:15
+2024-12-11,269949,Hans Wagner,Dringender Anruf,13,3.00,39.00,14:15
+2024-12-10,269950,Lisa Weber,Allgemeine Anfrage,21,2.50,52.50,14:30
+2024-12-05,269951,Lisa Kühn,Dringender Anruf,25,2.50,62.50,17:00
+2024-12-01,269952,Peter Braun,Rechnungsanfrage,11,2.50,27.50,08:45
+2024-12-05,269953,Erika Müller,Terminbuchung,23,2.50,57.50,15:15
+2024-12-10,269954,Peter Wagner,Terminänderung,13,2.50,32.50,11:30
+2024-12-06,269955,Julia Weber,Terminänderung,10,2.50,25.00,08:30
+2024-12-12,269956,Hans Wagner,Allgemeine Anfrage,13,2.50,32.50,14:15
+2024-12-05,269957,Erika Fischer,Allgemeine Anfrage,20,2.50,50.00,16:00
+2024-12-11,269958,Peter Meier,Dringender Anruf,22,3.00,66.00,09:30
+2024-12-03,269959,Julia Wagner,Terminbuchung,22,3.00,66.00,15:15
+2024-12-02,269960,Karl Braun,Rechnungsanfrage,23,3.00,69.00,10:30
+2024-12-08,269961,Michael Meier,Dringender Anruf,13,3.00,39.00,16:00
+2024-12-01,269962,Karl Weber,Rechnungsanfrage,16,2.50,40.00,11:45
+2024-12-08,269963,Julia Schmidt,Terminänderung,14,2.50,35.00,11:00
+2024-12-11,269964,Michael Kühn,Rechnungsanfrage,17,3.00,51.00,12:00
+2024-12-08,269965,Erika Meier,Rechnungsanfrage,11,2.50,27.50,10:30
+2024-12-04,269966,Michael Schmidt,Terminbuchung,8,3.00,24.00,08:30
+2024-12-02,269967,Erika Fischer,Dringender Anruf,17,2.50,42.50,12:45
+2024-12-02,269968,Julia Weber,Rechnungsanfrage,25,3.00,75.00,15:15
+2024-12-02,269969,Karl Braun,Dringender Anruf,19,2.50,47.50,17:00
+2024-12-02,269970,Hans Fischer,Dringender Anruf,12,2.50,30.00,13:45
+2024-12-02,269971,Michael Braun,Terminänderung,8,2.50,20.00,10:45
+2024-12-07,269972,Erika Huber,Terminänderung,5,3.00,15.00,14:30
+2024-12-03,269973,Hans Müller,Dringender Anruf,23,3.00,69.00,08:15
+2024-12-08,269974,Lisa Wagner,Terminbuchung,6,2.50,15.00,12:15
+2024-12-08,269975,Thomas Braun,Allgemeine Anfrage,16,2.50,40.00,08:15
+2024-12-02,269976,Erika Weber,Rechnungsanfrage,19,2.50,47.50,16:15
+2024-12-05,269977,Hans Schäfer,Terminänderung,18,2.50,45.00,08:30
+2024-12-11,269978,Hans Müller,Rechnungsanfrage,17,3.00,51.00,14:00
+2024-12-01,269979,Julia Weber,Dringender Anruf,10,2.50,25.00,12:45
+2024-12-09,269980,Karl Fischer,Allgemeine Anfrage,25,3.00,75.00,12:15
+2024-12-06,269981,Sarah Meier,Terminänderung,15,2.50,37.50,16:15
+2024-12-09,269982,Lisa Kühn,Terminänderung,5,3.00,15.00,15:45
+2024-12-04,269983,Lisa Meier,Dringender Anruf,12,2.50,30.00,13:30
+2024-12-02,269984,Peter Schmidt,Allgemeine Anfrage,5,3.00,15.00,09:45
+2024-12-01,269985,Karl Wagner,Rechnungsanfrage,23,2.50,57.50,16:30
+2024-12-06,269986,Julia Schäfer,Dringender Anruf,11,3.00,33.00,12:45
+2024-12-08,269987,Michael Fischer,Terminbuchung,19,2.50,47.50,09:00
+2024-12-08,269988,Anna Schmidt,Terminbuchung,13,2.50,32.50,10:15
+2024-12-01,269989,Erika Schmidt,Allgemeine Anfrage,22,2.50,55.00,09:15
+2024-12-09,269990,Lisa Weber,Rechnungsanfrage,7,3.00,21.00,11:45
+2024-12-04,269991,Hans Schmidt,Allgemeine Anfrage,18,3.00,54.00,11:00
+2024-12-08,269992,Karl Schmidt,Dringender Anruf,25,3.00,75.00,08:45
+2024-12-08,269993,Anna Müller,Dringender Anruf,23,2.50,57.50,12:30
+2024-12-07,269994,Karl Braun,Rechnungsanfrage,14,3.00,42.00,08:45
+2024-12-10,269995,Michael Wagner,Allgemeine Anfrage,24,2.50,60.00,10:00
+2024-12-04,269996,Erika Huber,Rechnungsanfrage,12,2.50,30.00,10:00
+2024-12-11,269997,Thomas Huber,Terminbuchung,12,2.50,30.00,12:00
+2024-12-10,269998,Michael Braun,Rechnungsanfrage,15,3.00,45.00,14:00
+2024-12-07,269999,Karl Wagner,Dringender Anruf,18,2.50,45.00,13:00
+2024-12-12,270000,Sarah Huber,Terminbuchung,7,3.00,21.00,14:30
+2024-12-10,270001,Lisa Kühn,Dringender Anruf,19,3.00,57.00,13:45
+2024-12-11,270002,Julia Schäfer,Allgemeine Anfrage,18,2.50,45.00,10:30
+2024-12-11,270003,Anna Schmidt,Terminbuchung,20,3.00,60.00,17:00
+2024-12-05,270004,Sarah Schäfer,Dringender Anruf,7,2.50,17.50,14:30
+2024-12-01,270005,Thomas Kühn,Rechnungsanfrage,22,3.00,66.00,10:00
+2024-12-02,270006,Anna Wagner,Terminänderung,14,3.00,42.00,08:45
+2024-12-08,270007,Peter Weber,Allgemeine Anfrage,7,3.00,21.00,13:15
+2024-12-01,270008,Hans Müller,Rechnungsanfrage,19,2.50,47.50,14:45
+2024-12-12,270009,Lisa Wagner,Terminänderung,22,3.00,66.00,08:00
+2024-12-04,270010,Hans Weber,Terminänderung,12,2.50,30.00,11:00
+2024-12-10,270011,Lisa Schäfer,Terminbuchung,23,2.50,57.50,16:00
+2024-12-07,270012,Hans Braun,Rechnungsanfrage,5,2.50,12.50,10:15

@@ -1,0 +1,16 @@
+<div class="register-card">
+
+  <div class="card-title">
+      <h1>Neuen Account registrieren</h1>
+      <span><a routerLink="/login">Abbrechen</a></span>
+  </div>
+  @if (error) {
+    <div class="error-message">{{ error }}</div>
+  }
+  <form class="form-group" [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+      <input name="username" type="string" formControlName="username" placeholder="Benutzername">
+      <input type="password" formControlName="password" placeholder="Passwort">
+      <button>Registrieren</button>
+  </form>
+
+</div>
